@@ -1,8 +1,16 @@
-# React + Vite
+# Guess Hexcode of the color
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### Intial Stage
+![image](https://github.com/Aswini2414/Guess-color-code/assets/100773503/89d3cd48-f00a-4c65-915c-ed088c2e3484)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### For Wrong Guess
+![image](https://github.com/Aswini2414/Guess-color-code/assets/100773503/b36d633a-51c7-4688-9893-30e869e56b56)
+
+### For Right Guess
+![image](https://github.com/Aswini2414/Guess-color-code/assets/100773503/23401fb3-4353-438a-ad8d-11eb40dbfc2f)
+
+
+
+
+
